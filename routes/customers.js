@@ -2,7 +2,6 @@ const { Customer, validate } = require('../models/customer');
 const mongoose = require('mongoose');
 
 const express = require('express');
-const { findLastIndex } = require('underscore');
 const router = express.Router();
 
 router.get('/', async (req, res) => {
