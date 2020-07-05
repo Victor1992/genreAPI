@@ -5,3 +5,8 @@ npm i express
 
 npm i mongoose
 
+
+Authentication and authorization--
+npm i bcrypt
+nim i jasonwebtoken
+npm i config -- to store secret configuration
